@@ -4,6 +4,6 @@
 int main(void)
 {
 	printf("Hallo Welt!");
-	printf("Hallo Simon!");
+	printf("Hallo ich bin Edmund, der Eismann!");
 	return 0;
 }
