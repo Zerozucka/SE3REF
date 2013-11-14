@@ -3,7 +3,6 @@
 
 int main(void)
 {
-	printf("Hallo Simon!");
-	/* Deine Mutter stinkt! */
+	printf("Hallo Welt!");
 	return 0;
 }
